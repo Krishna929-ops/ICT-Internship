@@ -1,0 +1,47 @@
+h1{
+    color: rgb(4, 19, 26);
+    background-color: rgb(42, 138, 122);
+    text-decoration: double;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 50px;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 13px;
+}
+table,th,td{
+    border: 2px #000 double; 
+}
+#head{
+        color: rgb(11, 14, 15);
+        background-color: rgb(29, 88, 88);
+        text-decoration: double;
+        font-style: italic;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: center;
+        font-size: 50px;
+        border: 2px;
+        border-color: black;
+        border-style: solid;
+    }
+    .aaaa{
+        background-color: rgb(49, 105, 105);
+        margin: 40px 50px 40px 50px;
+        padding: 30px 40px 50px 70px;
+        font-size: 15px;
+        background-image: url("https:/i.pinimg.com/736x/5e/3f/f9/5e3ff93961ae374c7b02be04bed1b158.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    img{
+        border: 10px rgb(6, 36, 48)solid;
+        margin-left: 120px;
+        margin-right: 120px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+
+
